@@ -8,3 +8,4 @@
 * The moment Intellisense tries to display information when typing the opening braces, VS crashes
 
 ## Screenshot
+![crash.png](crash.png)
