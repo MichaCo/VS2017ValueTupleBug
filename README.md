@@ -9,3 +9,6 @@
 
 ## Screenshot
 ![crash.png](https://github.com/MichaCo/VS2017ValueTupleBug/raw/master/crash.PNG)
+
+## VS Issue Tracking
+https://developercommunity.visualstudio.com/content/problem/87677/using-value-tuple-in-multi-targeting-class-library.html
